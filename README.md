@@ -20,12 +20,16 @@ Melakukan transaksi penjualan,
 Menghitung total belanja dan kembalian secara otomatis,
 Menyimpan riwayat penjualan,
 Melihat laporan penjualan harian atau periodik sebagai bahan evaluasi usaha.
+
 👑Admin
 <img width="1919" height="979" alt="Screenshot 2025-12-25 180300" src="https://github.com/user-attachments/assets/31450956-733e-4d8c-8d15-bb2c841eead2" />
 
 💼Kasir
 <img width="1895" height="961" alt="Screenshot 2025-12-25 180857" src="https://github.com/user-attachments/assets/315df798-a1fd-4559-8f00-b18d1875b0f8" />
  
+ 🎥Vidio
+ ![videoujicoba](https://github.com/user-attachments/assets/15b4cdac-296f-49b7-83f6-aea81b92e06f)
+
  🛠️ Teknologi
 - PHP
 - MySQL
