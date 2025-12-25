@@ -5,11 +5,13 @@ Sederhana (mudah dipahami oleh pelaku usaha non-teknis),
 Cepat (transaksi tidak ribet),
 Akurat (mengurangi kesalahan pencatatan manual),
 Efisien (hemat waktu dan tenaga).
-
 Sistem ini memungkinkan pelaku UMKM untuk:
 Mencatat data produk dan harga,
 Melakukan transaksi penjualan,
 Menghitung total belanja dan kembalian secara otomatis,
 Menyimpan riwayat penjualan,
 Melihat laporan penjualan harian atau periodik sebagai bahan evaluasi usaha.
+Admin
 <img width="1919" height="979" alt="Screenshot 2025-12-25 180300" src="https://github.com/user-attachments/assets/31450956-733e-4d8c-8d15-bb2c841eead2" />
+Kasir
+<img width="1895" height="961" alt="Screenshot 2025-12-25 180857" src="https://github.com/user-attachments/assets/315df798-a1fd-4559-8f00-b18d1875b0f8" />
