@@ -1,0 +1,1 @@
+Sistem Point of Sale (POS) penjualan UMKM adalah sebuah sistem berbasis digital yang digunakan untuk mengelola proses transaksi penjualan secara terpusat dan terstruktur, mulai dari pencatatan produk, proses pembayaran, hingga penyimpanan data penjualan dalam satu alur kerja yang rapi dan mudah digunakan.
